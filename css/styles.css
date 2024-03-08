@@ -52,3 +52,15 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.bio-text-shanel { 
+	font-weight:  900;
+	text-align: center;
+	color: #0e6b0e 
+}
+
+.bio-text-shanel2 {
+	font-weight: 700;
+	text-align: center;
+	color: #820db1 
+}
